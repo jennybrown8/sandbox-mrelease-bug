@@ -3,7 +3,7 @@
 	<groupId>net.simsa</groupId>
 	<artifactId>sandbox-mrelease-bug</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version>1.0-SNAPSHOT</version>
 	<!-- TODO project name  -->
 	<name>quickstart</name>
 	<description>Demonstration app for a maven release plugin cygwin path bug</description>
@@ -15,9 +15,9 @@
 		</license>
 	</licenses>
     <scm>
-            <connection>scm:git:https://github.com/42Lines/sandbox-mrelease-bug.git</connection>
-            <developerConnection>scm:git:https://github.com/42Lines/sandbox-mrelease-bug.git</developerConnection>
-            <url>git@github.com/42Lines/sandbox-mrelease-bug.git</url>
+            <connection>scm:git:https://github.com/jennybrown8/sandbox-mrelease-bug.git</connection>
+            <developerConnection>scm:git:https://github.com/jennybrown8/sandbox-mrelease-bug.git</developerConnection>
+            <url>git@github.com/jennybrown8/sandbox-mrelease-bug.git</url>
     </scm>
 	<properties>
 		<wicket.version>1.5.5</wicket.version>
