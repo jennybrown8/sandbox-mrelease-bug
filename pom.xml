@@ -107,7 +107,6 @@
                     <version>2.1</version> 
                     <configuration> 
                         <mavenExecutorId>forked-path</mavenExecutorId> 
-                        <arguments>-Prelease</arguments> 
                         <remoteTagging>false</remoteTagging> 
                     </configuration> 
                 </plugin> 
