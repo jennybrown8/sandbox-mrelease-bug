@@ -183,5 +183,15 @@
 			</snapshots>
 		</repository>
 	</repositories>
+	<distributionManagement>
+		<repository>
+		<!-- would need to be fixed -->
+		<!-- 
+			<id>internal.repo</id>
+			<name>MyCo Internal Repository</name>
+			<url>Host to Company Repository</url>
+ 		-->			
+		</repository>
+	</distributionManagement>
 
 	</project>
